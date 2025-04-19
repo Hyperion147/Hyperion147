@@ -12,6 +12,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="next" src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
 </p>
 
 <h3>My GitHub contributions summary</h3>
