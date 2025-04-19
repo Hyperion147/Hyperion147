@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Suryansu Singh!
 
-![](https://komarev.com/ghpvc/?username=Hyperion147&color=cyan)
+![](https://komarev.com/ghpvc/?username=Hyperion147&color=blue)
 
 <!--
 **Hyperion147/Hyperion147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
