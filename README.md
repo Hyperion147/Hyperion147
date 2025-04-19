@@ -1,7 +1,5 @@
 ## Hi there 👋 I am Suryansu Singh!
 
-![](https://komarev.com/ghpvc/?username=Hyperion147&color=blue)
-
 
 <h3>I code using</h3>
 <p>
