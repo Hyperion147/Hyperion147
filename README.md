@@ -17,11 +17,11 @@
 <h3>My GitHub contributions summary</h3>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Hyperion147&theme=dark&hide_border=false)
-  <img src="https://dg4f756elm.ufs.sh/f/G7qZPEF3toKqOG5W4PZIxDUufLyHGKOqWaXmFil4rTbsd2JA" width="185px" padding="20px" alt="ascii-art" />
 <br/>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyperion147&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyperion147&hide_border=false&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperion147&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--
 **Hyperion147/Hyperion147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
