@@ -19,7 +19,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Hyperion147&theme=dark&hide_border=false)
 <br/>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyperion147&hide_border=false&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=Hyperion147&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperion147&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--
