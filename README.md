@@ -11,6 +11,8 @@
   <img alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=FFFFFF" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=FFFFFF" />
+  <img alt="supabase" src="https://img.shields.io/badge/Supabase-green?style=flat-square&logo=Supabase&logoColor=FFFFFF" />
+  
 </p>
 
 <h3>My GitHub contributions summary</h3>
