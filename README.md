@@ -3,12 +3,13 @@
 
 <h3>I code using</h3>
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-html5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="next" src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-express-000000?style=flat-square&logo=Express&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-react-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="next" src="https://img.shields.io/badge/-next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="supabase" src="https://img.shields.io/badge/Supabase-green?style=flat-square&logo=Supabase&logoColor=FFFFFF" />
   
 </p>
