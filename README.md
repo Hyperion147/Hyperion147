@@ -7,16 +7,29 @@
   <img alt="tailwind" src="https://img.shields.io/badge/tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?logo=javascript&logoColor=black" />
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+</p>
+
+<h3>Frameworks</h3>
+<p>
   <img alt="NodeJS" src="https://img.shields.io/badge/-node.js-339933?logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
   <img alt="React" src="https://img.shields.io/badge/-react-45b8d8?logo=react&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/react_router-CA4245?logo=react-router&logoColor=white" />
   <img alt="next" src="https://img.shields.io/badge/-next.js-000000?logo=nextdotjs&logoColor=white" />
   <img alt="vite" src="https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=fff" />
+</p>
+
+<h3>Database</h3>
+<p>
+  <img alt="postgresql" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
   <img alt="supabase" src="https://img.shields.io/badge/supabase-green?logo=Supabase&logoColor=FFFFFF" />
-  <img alt="drizzle" src="https://img.shields.io/badge/drizzle-C5F74F?logo=drizzle&logoColor=000" />
+</p>
+
+<h3>Package Manager</h3>
+<p>
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
 </p>
+
 
 <h3>My GitHub contributions summary</h3>
 
