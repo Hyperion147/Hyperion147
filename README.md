@@ -4,9 +4,9 @@
 <h3>I code using</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white" />
-  <img alt="tailwind" src="https://img.shields.io/badge/tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+  <img alt="tailwind" src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?logo=javascript&logoColor=black" />
-  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+  <img alt="Typescript" src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=fff" />
 </p>
 
 <h3>Frameworks</h3>
@@ -21,7 +21,7 @@
 
 <h3>Database</h3>
 <p>
-  <img alt="postgresql" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
+  <img alt="postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white" />
   <img alt="supabase" src="https://img.shields.io/badge/supabase-green?logo=Supabase&logoColor=FFFFFF" />
 </p>
 
