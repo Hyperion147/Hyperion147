@@ -19,6 +19,14 @@
   <img alt="vite" src="https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=fff" />
 </p>
 
+<h3>Others</h3>
+<p>
+  <img alt="shadcn" src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff" />
+  <img alt="react query" src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff" />
+  <img alt="vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" />
+  <img alt="drizzle" src="https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000" />
+</p>
+
 <h3>Database</h3>
 <p>
   <img alt="postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white" />
