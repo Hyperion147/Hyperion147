@@ -11,11 +11,12 @@
 
 <h3>Frameworks</h3>
 <p>
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+  <img alt="next" src="https://img.shields.io/badge/-next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img alt="react-native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-node.js-339933?logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
-  <img alt="React" src="https://img.shields.io/badge/-react-45b8d8?logo=react&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/react_router-CA4245?logo=react-router&logoColor=white" />
-  <img alt="next" src="https://img.shields.io/badge/-next.js-000000?logo=nextdotjs&logoColor=white" />
   <img alt="vite" src="https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=fff" />
 </p>
 
