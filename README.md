@@ -37,6 +37,7 @@
 <h3>Package Manager</h3>
 <p>
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
+  <img alt="pnpm" src="https://img.shields.io/badge/pnpm-000000?logo=pnpm&logoColor=fff" />
 </p>
 
 
@@ -44,8 +45,6 @@
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Hyperion147&theme=dark&card_width=400&background=494D5C&fire=67EB3F&ring=B5EB969E&currStreakLabel=67EB3F&border=B5EB969E&hide_current_streak=true)](https://git.io/streak-stats)
 <br/>
-
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=Hyperion147&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperion147&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--
