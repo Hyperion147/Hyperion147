@@ -1,6 +1,3 @@
-## Hi there 👋 I am Suryansu Singh!
-
-
 <h3>I code using</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white" />
@@ -19,8 +16,6 @@
   <img alt="React Router" src="https://img.shields.io/badge/react_router-CA4245?logo=react-router&logoColor=white" />
   <img alt="vite" src="https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=fff" />
 </p>
-
-<h3>Others</h3>
 <p>
   <img alt="shadcn" src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff" />
   <img alt="react query" src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff" />
@@ -40,24 +35,11 @@
   <img alt="pnpm" src="https://img.shields.io/badge/pnpm-000000?logo=pnpm&logoColor=fff" />
 </p>
 
-
 <h3>My GitHub contributions summary</h3>
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Hyperion147&theme=dark&card_width=400&background=494D5C&fire=67EB3F&ring=B5EB969E&currStreakLabel=67EB3F&border=B5EB969E&hide_current_streak=true)](https://git.io/streak-stats)
-<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperion147&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!--
-**Hyperion147/Hyperion147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Leetcode summary</h3> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Leetcode Stats](https://leetcard.jacoblin.cool/Hyperion147?ext=heatmap)
+<p>Not impressive~ currently working on it!</p>
