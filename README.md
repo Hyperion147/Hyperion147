@@ -34,12 +34,3 @@
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
   <img alt="pnpm" src="https://img.shields.io/badge/pnpm-000000?logo=pnpm&logoColor=fff" />
 </p>
-
-<h3>My GitHub contributions summary</h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Hyperion147)](https://git.io/streak-stats)
-
-<h3>Leetcode summary</h3> 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Hyperion147?ext=heatmap)
-<p>Not impressive~ currently working on it!</p>
