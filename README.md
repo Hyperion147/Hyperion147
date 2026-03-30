@@ -15,10 +15,6 @@
   * Built a web API capable of handling up to 100k plants.
   * Integrated Google authentication and a Panipat-specific map for plant tagging.
 
-### TODO Supabase <a href="https://todo.suryansu.pro" target="_blank">Live</a>
-
-  * **Tech:** React JS, Tailwind CSS, Supabase
-  * Developed a daily task management application with full CRUD operations and secure authentication.
 
 -----
 
