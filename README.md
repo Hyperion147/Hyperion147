@@ -25,7 +25,7 @@
   * **Styling & UI:** Tailwind CSS, ShadCN, MUI, Figma UI
   * **Animation:** GSAP, Motion
   * **Backend & Database:** Postgres, Supabase, Drizzle, Zod
-  * **Tools:** Git, GitHub, NPM, React Hook Form (RHF)
+  * **Tools:** Git, GitHub, NPM, Codex | Antigravity
 
 -----
 
