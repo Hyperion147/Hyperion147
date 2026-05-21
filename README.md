@@ -39,5 +39,3 @@
   * Built a mobile application with WebRTC capabilities and a corresponding management dashboard.
   * Engineered HRMS platform dashboards for both Admin and Employee roles.
   * Managed repositories and conducted code reviews for a team of 10+ interns.
-
-[![Suryansu Sunil Kumar Singh profile views](https://u8views.com/api/v1/github/profiles/135528685/views/day-week-month-total-count.svg)](https://u8views.com/github/Hyperion147)
