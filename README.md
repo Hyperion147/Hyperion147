@@ -2,7 +2,7 @@
 
 ## Projects
 
-### Convergence <a href="https://convergence.suryansu.pro/" target="_blank">Live</a>
+### Convergence <a href="https://convergence.suryansu.in/" target="_blank">Live</a>
 
   * **Tech:** React JS, JavaScript, ShadCN, NPM
   * Developed and published a specialized development utility to manage and toggle landing pages on live production servers during the staging phase.
