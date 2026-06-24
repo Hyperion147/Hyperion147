@@ -33,7 +33,7 @@
 
 ### Advika Innovate
 
-**Frontend Developer** | Aug 2025 – Present
+**Frontend Developer** | Aug 2025 – June 2026
 
   * Developed the NexAmaze Inventory Management tool using React JS and Next.js.
   * Built a mobile application with WebRTC capabilities and a corresponding management dashboard.
